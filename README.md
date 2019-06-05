@@ -1,5 +1,6 @@
 # categorizer
 simple python script to categorize the downloaded files according to the file type.
+
 To run this script :
 
 1.clone the repository 
